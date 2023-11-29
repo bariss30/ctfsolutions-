@@ -1,1 +1,13 @@
+Problem 
+There is something on my shop network running at mercury.picoctf.net:16524, but I can't tell what it is. Can you?
+
+Hints 
+
+what language does a CNC machine use ?
+
+
+
+1- nc mercury.picoctf.net  28067
+
+
 
