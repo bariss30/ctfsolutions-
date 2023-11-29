@@ -1,2 +1,2 @@
-# ctfsolutions-
-bu depo CTF çözümleri ve çalışmaları için oluşturulmuştur
+# &ctf&-
+Bu depo CTF çözümleri ve çalışmaları için oluşturulmuştur
